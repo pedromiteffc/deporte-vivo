@@ -1067,7 +1067,7 @@ footer .logo
 
 }
 
-#wg-api-football-games
+#wg-api-football-games, #wg-api-basketball-games, #wg-api-volleyball-games, #wg-api-baseball-games
 {
     width: 100%;
 }
