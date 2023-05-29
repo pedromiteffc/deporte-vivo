@@ -1071,3 +1071,8 @@ footer .logo
 {
     width: 100%;
 }
+
+span.wg_active
+{
+    background-color: #fca311;
+}
